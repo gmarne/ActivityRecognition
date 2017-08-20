@@ -15,6 +15,9 @@ author: Dr. Ziqian Dong, Gopi Prasad Marne
 | Associated Tasks:         | Classification, Clustering
 | Number of Features:       | 25
 ```
+# DataSet: 
+Download the data set for specific users with permission [**Download.**](https://drive.google.com/drive/folders/0B9ceq4Nu8R49S2o0Zzk4RWZPSjQ?usp=sharing)
+
 ## Data set Information:
 
 The experiments have been carried out with a group of 4 volunteers within an age 19-31 years. Even person performed three activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS) wearing a xsens suit with 6 sensors placed on six positions(LOWER BACK, LEFT_WRIST, RIGHT_WRIST, LEFT_ANKLE, RIGHT_ANKLE, LEFT_FOOT). Using its embedded accelerometer and gyroscope, we captured 3-axis linear acceleration and 3-axial angular velocity at a constant rate of 100 Hz. Where 70% of the volunteers was selected for training and 30% for test the data.
