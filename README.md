@@ -35,9 +35,9 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ### The data set includes the following files:
-- 'Readme.txt'
-- 'features_info.txt': Shows information about the variables used on the feature vector.
-- 'features.txt': List of all features.
+- 'Readme.pdf'
+- 'featureSelection.pdf': Shows information about the variables used on the feature vector.
+- 'features.pdf': List of all features.
 - 'Raw_Data_Set': Output from the xsens six sensors.
 - 'Features_Data_Set': Obtained features after signal Processing for lowerback position.
 - 'Mat-lab_Code.mat': Mat-lab files for filtering, separating body and gravity acceleration,   calculating magnitude, features exaction.
